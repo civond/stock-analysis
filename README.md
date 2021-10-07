@@ -3,7 +3,15 @@
 <br/>The purpose of this project was to create a macro using VBA that calculates stock volume and return rates for a given year (2017/2018).
 
 <h2>Results</h2>
-</br>For the refactored script, the runtime was roughly ~0.08 seconds for 2017 and 2018. In the original VBA script, the runtime was about ~.45 seconds. 
+<h3>Performance</h3>
+As seen in the images below, the stock performance for 2017 had largely positive returns with the exception of TERP. However, in 2018, there was a complete turnaround and only stocks ENPH and RUN saw positive returns.
+</br>
+<img src='Resources/VBA_Challenge_2017_Performance.PNG'></img>
+<img src='Resources/VBA_Challenge_2018_Performance.PNG'></img>
+
+<h3>Script Runtimes</h3>
+Regarding the runtimes for our VBA scripts, the refactored version had a runtime of roughly ~0.08 seconds for the 2017 and 2018 datasets. In the original VBA script, the runtime was about ~.45 seconds. 
+</br>
 <img src='Resources/VBA_Challenge_2017.PNG'></img>
 <img src='Resources/VBA_Challenge_2018.PNG'></img>
 
