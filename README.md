@@ -9,5 +9,5 @@
 </br>
 <ol>
   <li>A great advantage of refactoring the original source code is that one can make improvements upon it (such as improving runtimes, or make it easier for others to read). However, there comes a risk of creating bugs that did exist otherwise (not for this project, but for others).</li>
-  <li>The refactored version of our VBA script had a slightly smaller runtime than the original.</li>
+  <li>One good thing about our original script is that it is simple, and easy to understand. However, the refactored version of our VBA script has a slightly smaller runtime than the original.</li>
 </ol>
